@@ -3,7 +3,7 @@
 <i>Because I got side tracked and never finished my previous attempt... 🫠</i><br>
 For old version: https://github.com/solitaryewe/Stanford-CS193p
 
-<br>🎉 CS193p Party Crasher!! 🎉<br>
+🎉 CS193p Party Crasher!! 🎉<br>
 My work as I follow along with Stanford CS193p: Developing Apps for iOS.<br>
 *Spring 2021 version.*
 
