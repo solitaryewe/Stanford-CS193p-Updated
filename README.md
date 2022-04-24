@@ -16,4 +16,4 @@ A card-matching game for iOS - the first demo & assignments for the class.
 | Checkpoint | Screenshots |
 | ---------- | :----: |
 | Lecture 1 | - |
-| Lecture 2 | [![Lecture 2](https://github.com/solitaryewe/Stanford-CS193p-Updated/blob/main/Memorize/Screenshots/memorize-lecture2a-small.png)](https://github.com/solitaryewe/Stanford-CS193p-Updated/blob/main/Memorize/Screenshots/memorize-lecture2a-small.png) [![Lecture 2](https://github.com/solitaryewe/Stanford-CS193p-Updated/blob/main/Memorize/Screenshots/memorize-lecture2b-small.png)](https://github.com/solitaryewe/Stanford-CS193p-Updated/blob/main/Memorize/Screenshots/memorize-lecture2b-small.png) |
+| Lecture 2 | [![Lecture 2](https://github.com/solitaryewe/Stanford-CS193p-Updated/blob/main/Memorize/Screenshots/memorize-lecture2a-small.png)](https://github.com/solitaryewe/Stanford-CS193p-Updated/blob/main/Memorize/Screenshots/memorize-lecture2a-large.png) [![Lecture 2](https://github.com/solitaryewe/Stanford-CS193p-Updated/blob/main/Memorize/Screenshots/memorize-lecture2b-small.png)](https://github.com/solitaryewe/Stanford-CS193p-Updated/blob/main/Memorize/Screenshots/memorize-lecture2b-large.png) |
